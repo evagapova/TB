@@ -10,4 +10,4 @@
 
 $P(A) = \frac{m}{n} = \frac{16 - \frac{1}{2} \cdot 3^2}{16} = \frac{11.5}{16} = 0.719$
 
-Смоделированное решение: 
+[Смоделированное решение](https://github.com/evagapova/-/blob/main/1_geometric_probability.py)
